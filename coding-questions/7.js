@@ -1,7 +1,7 @@
 /* 
     Javascript Practice exercises for beginners
     ================================================
-    Exercise 2:
+    Exercise 7:
     Write a JavaScript program to extract the first half of the string of even length
 */
 

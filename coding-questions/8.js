@@ -1,7 +1,7 @@
 /* 
     Javascript Practice exercises for beginners
     ================================================
-    Exercise 2:
+    Exercise 8:
     Write a JavaScript program to concatenate two strings
     except their first character.
 */
